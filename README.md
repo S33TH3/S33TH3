@@ -15,13 +15,12 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31zzz736f74ntrbkngfdznxue6lu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zzz736f74ntrbkngfdznxue6lu&count=1&unique=true" alt="Spotify recently played"  />
 </div>
 
 ###
-```1110011011011010110111101101011
+```
+1110011011011010110111101101011
 1101001011011100010000001110100 
 1101000011000010111010000100000 
 1101100011011110111010101100100
