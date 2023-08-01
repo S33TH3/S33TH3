@@ -2,11 +2,7 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=S33TH3" height="160" alt="stats graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zzz736f74ntrbkngfdznxue6lu&count=1&unique=true" alt="Spotify recently played"  />
-</div>
 
 ###
 
